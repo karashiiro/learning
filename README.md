@@ -615,7 +615,7 @@
 ### Be able to version control code
 - [ ] [Article: Mastering Git Stash Workflow](https://dev.to/yankee/mastering-git-stash-workflow-223)
 - [ ] [Article: How to Become a Master of Git Tags](https://blog.daftcode.pl/how-to-become-a-master-of-git-tags-b70fbd9609d9)
-- [ ] [Article: How to track large files in Github / Bitbucket? Git LFS to the rescue](https://pgaijin66.medium.com/how-to-track-large-files-in-github-bitbucket-git-lfs-to-the-rescue-2f298e07b3d2)
+- [X] [Article: How to track large files in Github / Bitbucket? Git LFS to the rescue](https://pgaijin66.medium.com/how-to-track-large-files-in-github-bitbucket-git-lfs-to-the-rescue-2f298e07b3d2)
 - [ ] [Article: Keep your git directory clean with `git clean` and `git trash`](https://coderwall.com/p/g16jpq/keep-your-git-directory-clean-with-git-clean-and-git-trash)
 - [ ] [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
 - [ ] [Code School: Git Real](https://www.pluralsight.com/courses/code-school-git-real)
